@@ -1,7 +1,6 @@
 body{
     background-color: #67cdb6;
     font-size: 18px;
-    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
     line-height: 1em;
     font-weight: bold;
 }
@@ -117,7 +116,6 @@ input[type="password"]:focus {
     .login {
          width: 300px;
          height: 297px;
-         color: #eff0f2
     }
      
      input[type="text"],
